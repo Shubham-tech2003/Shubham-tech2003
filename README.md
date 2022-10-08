@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubham-tech2003
+- 👋 Hi, I’m Shubham Kumar!
 - 👀 I’m interested in AI,ML and cloud ☁️
 - 🌱 I’m currently learning blockchain 🔭
 - 💞️ I’m looking to collaborate on open source projects.
