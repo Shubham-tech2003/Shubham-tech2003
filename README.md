@@ -30,7 +30,7 @@
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 loves solving Real World problems through Tech😼
  
  - I do fullstack and a bit of everything :heart:
  
