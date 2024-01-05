@@ -32,7 +32,7 @@
    
  - 🔭 loves solving Real World problems through Tech😼
  
- - I do fullstack and a bit of everything :heart:
+ - I do fullstack and a bit of Devops :heart:
  
  - All About living life at its best.
  
