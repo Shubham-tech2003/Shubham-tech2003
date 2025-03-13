@@ -1,6 +1,9 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar172214&logoColor=white&color=FFDE59" alt="shubhamkumar172214" /> <img
-src="https://img.shields.io/github/followers/shubhamkumar172214?style=social" alt="shubhamkumar172214" /> <img
-src="https://img.shields.io/github/last-commit/shubhamkumar172214/ShubhamKumar" alt="shubhamkumar172214" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubham-tech2003&logoColor=white&color=FFDE59" alt="shubhamkumar172214" /> <img
+src="https://img.shields.io/github/followers/Shubham-tech2003?style=social" alt="shubhamkumar172214" /> <img
+src="https://img.shields.io/github/last-commit/Shubham-tech2003/ShubhamKumar" alt="shubhamkumar172214" /> </p>
+
+<h1 align="center">Hi there, I'm Shubham Kumar 👋</h1>
+<p align="center">🚀 DevOps | Full Stack Developer | Cloud Engineer | AI Enthusiast</p>
 
 ```javascript
 const ShubhamKumar = {
@@ -39,7 +42,7 @@ const ShubhamKumar = {
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-ffb400?style=flat-square&logo=bitbucket&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar172214&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="shubhamkumar172214"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar172214&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="shubhamkumar172214"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shubham-tech2003&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="shubhamkumar172214"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-tech2003&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="shubhamkumar172214"/> </p>
 
 <h2 align="center">Let's Connect ☕</h2>
 <p align="center">
